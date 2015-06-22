@@ -1,0 +1,21 @@
+.estado{
+	display:block;
+	float:left;	
+	width:100%;
+	height:20px;	
+}
+.estado div{
+	display:block;
+	float:left;	
+	width:100%;
+	height:100%;
+	vertical-align: middle;	
+}
+.estado a{
+	float:Right;	
+	margin-top:3px;
+	margin-right:10px;
+	font-size: 0.9em;
+	
+	height:auto;	
+}
